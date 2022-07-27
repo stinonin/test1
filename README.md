@@ -1,3 +1,3 @@
 # test1
-Test1
+README.md info
 20220726 Questo file readme di test permette di testare le possibilità intrinseche di...
